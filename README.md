@@ -12,25 +12,6 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="150" valign="top" align="center">
-
-<img src="https://github.com/adisaputra-prog.png" width="120" height="120" style="border-radius: 6px; border: 1px solid #30363D;" alt="Adi Saputra" />
-
-<br /><br />
-
-<code>root@network:~$</code>
-<br />
-<sub><b>whoami</b></sub>
-
-<br /><br />
-
-`Adi Saputra`
-<br />
-`Jakarta, ID`
-<br />
-`MTCNA Certified`
-
-</td>
 <td width="430" valign="top" align="center">
 
 <img src="assets/ascii-identity.svg" width="420" alt="Adi Saputra — ASCII identity mark" />
@@ -44,12 +25,12 @@
 
 <br />
 
-| | |
-|---|---|
-| 🎓 **Certification** | MTCNA |
-| 📍 **Location** | Indonesia |
-| 🎯 **Focus** | Enterprise Monitoring |
-| ⚙️ **Building** | VELO QoSE Platform |
+|                      |                       |
+| -------------------- | --------------------- |
+| 🎓 **Certification** | MTCNA                 |
+| 📍 **Location**      | Indonesia             |
+| 🎯 **Focus**         | Enterprise Monitoring |
+| ⚙️ **Building**      | VELO QoSE Platform    |
 
 <br />
 
