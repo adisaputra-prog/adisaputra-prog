@@ -234,14 +234,10 @@ Reduce the distance between **"the network is fine"** and **"the customer's expe
 
 <div align="center">
 
-| Channel          | Handle                                                                 |
-| ---------------- | ---------------------------------------------------------------------- |
-| 🐙 **GitHub**    | [@adisaputra-prog](https://github.com/adisaputra-prog)                 |
-| 📸 **Instagram** | [@addiface](https://www.instagram.com/addiface)                        |
-| 💼 **LinkedIn**  | [adi-saputra-network](https://www.linkedin.com/in/adi-saputra-network) |
-| 📧 **Email**     | [adisaputralol40@gmail.com](mailto:adisaputralol40@gmail.com)          |
-| 📍 **Location**  | Indonesia                                                              |
-| 🎯 **Open to**   | Enterprise networking & monitoring collaboration                       |
+[![GitHub](https://img.shields.io/badge/GitHub-adisaputra--prog-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9)](https://github.com/adisaputra-prog)
+[![Instagram](https://img.shields.io/badge/Instagram-addiface-0D1117?style=for-the-badge&logo=instagram&logoColor=C9D1D9)](https://www.instagram.com/addiface)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adi--saputra--network-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/adi-saputra-network)
+[![Email](https://img.shields.io/badge/Email-adisaputralol40%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FFD54F)](mailto:adisaputralol40@gmail.com)
 
 </div>
 
