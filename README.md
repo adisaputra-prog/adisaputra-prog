@@ -232,21 +232,18 @@ Reduce the distance between **"the network is fine"** and **"the customer's expe
 
 ## Contact
 
-```md
 <div align="center">
 
-## 📬 Connect With Me
-
-| Platform         | Link                                            |
-| :--------------- | :---------------------------------------------- |
-| 🐙 **GitHub**    | https://github.com/adisaputra-prog              |
-| 📸 **Instagram** | https://www.instagram.com/addiface              |
-| 💼 **LinkedIn**  | https://www.linkedin.com/in/adi-saputra-network |
-| 📍 **Location**  | Indonesia                                       |
-| 📧 **Email**     | adisaputralol40@gmail.com                       |
+| Channel          | Handle                                                                 |
+| ---------------- | ---------------------------------------------------------------------- |
+| 🐙 **GitHub**    | [@adisaputra-prog](https://github.com/adisaputra-prog)                 |
+| 📸 **Instagram** | [@addiface](https://www.instagram.com/addiface)                        |
+| 💼 **LinkedIn**  | [adi-saputra-network](https://www.linkedin.com/in/adi-saputra-network) |
+| 📧 **Email**     | [adisaputralol40@gmail.com](mailto:adisaputralol40@gmail.com)          |
+| 📍 **Location**  | Indonesia                                                              |
+| 🎯 **Open to**   | Enterprise networking & monitoring collaboration                       |
 
 </div>
-```
 
 <br />
 
