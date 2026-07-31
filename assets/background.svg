@@ -1,0 +1,43 @@
+<svg viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Background">
+  <defs>
+    <radialGradient id="wash" cx="18%" cy="12%" r="75%">
+      <stop offset="0%"  stop-color="#132018" stop-opacity="0.9" />
+      <stop offset="45%" stop-color="#0D1117" stop-opacity="1" />
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="1" />
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161B22" stroke-width="1" />
+    </pattern>
+    <linearGradient id="vignette" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#0D1117" stop-opacity="0" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.35" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="900" fill="#0D1117" />
+  <rect width="1600" height="900" fill="url(#wash)" />
+  <rect width="1600" height="900" fill="url(#grid)" opacity="0.6" />
+
+  <!-- faint diagonal fiber lines -->
+  <g stroke="#1B2129" stroke-width="1" opacity="0.7">
+    <line x1="-100" y1="900" x2="900"  y2="-100" />
+    <line x1="200"  y1="900" x2="1200" y2="-100" />
+    <line x1="500"  y1="900" x2="1500" y2="-100" />
+    <line x1="800"  y1="900" x2="1800" y2="-100" />
+  </g>
+
+  <!-- distant node cluster -->
+  <g fill="#58A6FF" opacity="0.25">
+    <circle cx="1340" cy="120" r="2.5" />
+    <circle cx="1400" cy="180" r="2" />
+    <circle cx="1300" cy="220" r="1.6" />
+    <circle cx="1460" cy="90"  r="1.6" />
+  </g>
+  <g fill="#00FF66" opacity="0.18">
+    <circle cx="180" cy="740" r="2.4" />
+    <circle cx="260" cy="700" r="1.8" />
+    <circle cx="120" cy="800" r="1.6" />
+  </g>
+
+  <rect width="1600" height="900" fill="url(#vignette)" />
+</svg>

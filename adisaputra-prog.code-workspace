@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"name": "adisaputra-prog",
+		"path": ".."
+	},
+	{
+		"name": "assets",
+		"path": "../../../../Downloads/adisaputra-prog/adisaputra-prog/assets"
+	},
+	{
+		"name": ".github",
+		"path": "../../../../Downloads/adisaputra-prog/adisaputra-prog/.github"
+	}
+],
+  "settings": {}
+}
