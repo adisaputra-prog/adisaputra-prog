@@ -25,12 +25,12 @@
 
 <br />
 
-|                      |                       |
-| -------------------- | --------------------- |
-| 🎓 **Certification** | MTCNA                 |
-| 📍 **Location**      | Indonesia             |
-| 🎯 **Focus**         | Enterprise Monitoring |
-| ⚙️ **Building**      | VELO QoSE Platform    |
+|                      |                                                       |
+| -------------------- | ----------------------------------------------------- |
+| 🎓 **Certification** | MTCNA                                                 |
+| 📍 **Location**      | Jakarta, Indonesia                                    |
+| 🎯 **Focus**         | Enterprise Monitoring                                 |
+| ⚙️ **Working**       | VELO Network { Quality of Service Experience (QoSE) } |
 
 <br />
 
